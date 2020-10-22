@@ -1,0 +1,5 @@
+Hola,
+
+Este es un fichero bastante largo, incluso con saltos de línea.
+
+Adios!!
